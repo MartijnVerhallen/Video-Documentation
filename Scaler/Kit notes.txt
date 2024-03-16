@@ -1,0 +1,6 @@
+Some kits offer all 4 build options, other kits are for one specific option
+
+If the kit label says otherwise, for example "Scaler BOM +-5v to +1v
+You have a kit only suited for that type of Scaler
+
+Kits with a label "Scaler" have parts for all versions
